@@ -16,8 +16,10 @@ yarn start
 - [x] Intro
 - [x] Feature
 - [x] Service
-- [] video
-- [] pricing
+- [x] video
+- [x] pricing
 - [] contact
 - [] footer
 - [] responsive
+
+<img src="websitev1.png">
